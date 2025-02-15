@@ -1,18 +1,23 @@
-<h1 align="center">🚀 Zannn | FiveM Lua Developer 🚀</h1>
+<h1 align="center">🚀 Zannn | FiveM Developer 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FiveM-Developer-orange?style=for-the-badge&logo=fivem&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-Programming-blue?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-Web-red?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-JavaScript-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ---
 
 ## 👋 Tentang Saya
-Halo! Saya **Zannn**, seorang developer yang berfokus pada pengembangan **FiveM** menggunakan **Lua**. Saya suka membuat skrip kustom untuk meningkatkan pengalaman bermain di FiveM, terutama dalam framework **ESX dan QB-Core**.
+Halo! Saya **Zannn**, seorang developer yang berfokus pada pengembangan **FiveM** dan **Web Development**.  
+Saya suka membuat skrip kustom untuk meningkatkan pengalaman bermain di FiveM, serta membangun antarmuka pengguna yang interaktif dengan **React**.
 
 ## 🛠️ Keahlian
-- 🔹 **Bahasa Pemrograman**: Lua
-- 🔹 **Framework**: ESX
+- 🔹 **Bahasa Pemrograman**: Lua, JavaScript  
+- 🔹 **Frontend**: HTML, CSS, React  
+- 🔹 **Framework FiveM**: ESX QBCORE
 - 🔹 **Database**: oxmysql  
 
 ## 📊 GitHub Statistik
