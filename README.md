@@ -15,10 +15,16 @@ Halo! Saya **Zannn**, seorang developer yang berfokus pada pengembangan **FiveM*
 - 🔹 **Framework**: ESX
 - 🔹 **Database**: oxmysql  
 
+## 📊 GitHub Statistik
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZannnCkk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZannnCkk&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ## 🔗 Sosial Media
 - 🎮 **Discord**: [Klik di sini](https://discord.gg/Qvsm8TEJ)  
 - 🎥 **YouTube**: [Klik di sini](https://www.youtube.com/@HappyZaaa/featured)  
 
 ---
 
-🔥 **Terima kasih telah mengunjungi profil saya! Jangan lupa untuk follow dan cek repositori saya.** 🚀  
+🔥 **Terima kasih telah mengunjungi profil saya! Jangan lupa untuk follow dan cek repositori saya.** 🚀
